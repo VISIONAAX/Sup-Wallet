@@ -38,7 +38,7 @@ Sup Wallet allows anyone to use WhatsApp as a wallet to send, receive, or swap a
 
 ![18bd597f41fb7b549e804df4b83b997d](https://github.com/VISIONAAX/Sup-Wallet/assets/151896296/1efa4bf6-6a97-44bd-874b-81f86765efc2)
 
-## Configuration
+## Testing Instructions - Configuration
 
 To configure the database connection, you will need to create a file named `orm.config.json` at the root of the project with the following structure:
 
